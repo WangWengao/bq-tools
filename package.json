@@ -1,0 +1,23 @@
+{
+  "name": "bq-tools",
+  "version": "1.0.0",
+  "description": "A frond-end tool library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WangWengao/bq-tools.git"
+  },
+  "keywords": [
+    "bq-tools",
+    "tool"
+  ],
+  "author": "wangwengao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangWengao/bq-tools/issues"
+  },
+  "homepage": "https://github.com/WangWengao/bq-tools#readme"
+}
