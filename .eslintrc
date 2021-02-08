@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": [
+    "standard"
+  ],
+  "rules": {
+    "no-console": "off"
+  },
+  "plugins": [
+
+  ]
+}
