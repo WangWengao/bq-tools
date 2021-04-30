@@ -6,7 +6,8 @@
     "standard"
   ],
   "rules": {
-    "no-console": "off"
+    "no-console": "off",
+    "semi": [2, "always"]
   },
   "plugins": [
 
